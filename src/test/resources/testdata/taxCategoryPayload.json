@@ -1,0 +1,89 @@
+[
+  {
+    "unique_id": "200014469437",
+    "feature_text": "Women Pendant Necklace Long Chain Diamond -155101",
+    "unspsc": "",
+    "request_id": "200014469437",
+    "extra_data": [
+      {
+        "group": "eBay Category",
+        "name": "ebayCategory",
+        "value": "155101"
+      },
+      {
+        "group": "Tag",
+        "name": "Brand",
+        "value": "Unbranded"
+      },
+      {
+        "group": "Tag",
+        "name": "Style",
+        "value": "Pendant"
+      },
+      {
+        "group": "Tag",
+        "name": "Type",
+        "value": "Chain"
+      },
+      {
+        "group": "Tag",
+        "name": "Gender",
+        "value": "Female"
+      }
+    ]
+  },
+  {
+    "unique_id": "200015042680",
+    "feature_text": "Very very goody good thing 19",
+    "unspsc": "",
+    "request_id": "200015042680",
+    "extra_data": [
+      {
+        "group": "eBay Category",
+        "name": "ebayCategory",
+        "value": "9355"
+      },
+      {
+        "group": "Tag",
+        "name": "Brand",
+        "value": "Nokia"
+      },
+      {
+        "group": "Tag",
+        "name": "Color",
+        "value": "Green"
+      }
+    ]
+  },
+  {
+    "unique_id": "270011229313",
+    "feature_text": "Musical Instruments - Gear:Percussion:Folk & World Drums:Congas",
+    "unspsc": "",
+    "request_id": "270011229313",
+    "extra_data": [
+      {
+        "group": "eBay Category",
+        "name": "ebayCategory",
+        "value": "53159"
+      }
+    ]
+  },
+  {
+    "unique_id": "220023668797",
+    "feature_text": "Apple iPhone 6 Plus - 16 GB - Gold (Unlocked) Smartphone (Certified Refurbished)",
+    "unspsc": "",
+    "request_id": "220023668797",
+    "extra_data": [
+      {
+        "group": "eBay Category",
+        "name": "ebayCategory",
+        "value": "9355"
+      },
+      {
+        "group": "Tag",
+        "name": "Brand",
+        "value": "Apple"
+      }
+    ]
+  }
+]
